@@ -1,2 +1,3 @@
-git is a version control system
-git is free software
+are you ok?
+what is your name
+thanks for your help
